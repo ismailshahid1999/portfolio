@@ -1,0 +1,18 @@
+.hire-btn:hover{
+    background-color: red;
+}
+/* for desktop only */
+@media (min-width: 768px){
+    .about-content{
+        width: 25%;
+    }
+    
+}
+/* for desktop only */
+
+@media (max-width: 768px){
+    .mgn{
+        margin-top: 10px;
+    }
+    
+}
